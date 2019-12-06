@@ -11,7 +11,7 @@ Usage: /api \<playername\>
 
 [Source.zip](https://github.com/papershredder432/PSAdvancedPlayerInfo/archive/1.0.0.zip)\
 [Source.targz](https://github.com/papershredder432/PSAdvancedPlayerInfo/archive/1.0.0.tar.gz)\
-[Download](https://github.com/papershredder432/PSAdvancedPlayerInfo/releases/download/1.0.0/PSAdvancedPlayerInfo.dll)\
+[Download](https://github.com/papershredder432/PSAdvancedPlayerInfo/releases/download/1.0.0/PSAdvancedPlayerInfo.dll)
 
 ### Discord Bots
 #### AngelicBot2.X
