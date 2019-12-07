@@ -13,6 +13,17 @@ Usage: /api \<playername\><br/>
 [Source.targz](https://github.com/papershredder432/PSAdvancedPlayerInfo/archive/1.0.0.tar.gz)<br/>
 [Download](https://github.com/papershredder432/PSAdvancedPlayerInfo/releases/download/1.0.0/PSAdvancedPlayerInfo.dll)
 
+#### PSHighJump
+# PSHighJump
+Rocketmod plugin to edit a player's jump height based on permissions.
+
+Permissions: ps.lowjump, ps.medjump, ps.highjump<br/>
+Usage: Salute for lowjump, Facepalm for medjump, Wave for highjump.
+
+[Source.zip](https://github.com/papershredder432/PSHighJump/archive/1.0.0.zip)
+[Source.targz](https://github.com/papershredder432/PSHighJump/archive/1.0.0.tar.gz)
+[Download](https://github.com/papershredder432/PSHighJump/releases/download/1.0.0/PSHighJump.dll)
+
 ### Discord Bots
 #### AngelicBot2.X
 A now discontinued Discord.js bot. Yet most used and successful. Code is decent but is most supported and versatile.<br/>
