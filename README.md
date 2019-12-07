@@ -14,7 +14,6 @@ Usage: /api \<playername\><br/>
 [Download](https://github.com/papershredder432/PSAdvancedPlayerInfo/releases/download/1.0.0/PSAdvancedPlayerInfo.dll)
 
 #### PSHighJump
-# PSHighJump
 Rocketmod plugin to edit a player's jump height based on permissions.
 
 Permissions: ps.lowjump, ps.medjump, ps.highjump<br/>
