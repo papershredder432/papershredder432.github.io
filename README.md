@@ -23,6 +23,15 @@ Usage: Salute for lowjump, Facepalm for medjump, Wave for highjump.
 [Source.targz](https://github.com/papershredder432/PSHighJump/archive/1.0.0.tar.gz)<br/>
 [Download](https://github.com/papershredder432/PSHighJump/releases/download/1.0.0/PSHighJump.dll)
 
+#### PSWatermark
+Rocketmod plugin to add a watermark to a player's screen; includes UI.<br/>
+Text and image can be changed, text in the config, and image in the config with a direct image link.
+
+Permissions: ps.watermark<br/>
+Usage: /watermark
+
+No download link as of right now, will most lkely be paid.
+
 ### Discord Bots
 #### AngelicBot2.X
 A now discontinued Discord.js bot. Yet most used and successful. Code is decent but is most supported and versatile.<br/>
